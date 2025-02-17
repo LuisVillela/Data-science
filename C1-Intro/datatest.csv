@@ -1,0 +1,21 @@
+﻿Nombre,Edad,Carrera,Serie,Estatura,Color,Madrid
+Juan,20,CS,Deathnote,0.5,Verde,TRUE
+Luis,21,CS,,1.8,Negro,FALSE
+Charlie,21,IE,HIMYM,1.7,Negro,FALSE
+Luis Pedro,20,IE,The WD,1.7,Azul,TRUE
+María,22,ADM,Friends,1.6,Rojo,TRUE
+Ana,23,CS,Breaking Bad,1.65,Verde,FALSE
+Jorge,19,IE,Stranger Things,1.75,Amarillo,FALSE
+Paula,22,CS,GOT,1.8,Rosa,TRUE
+Diego,21,ADM,HIMYM,1.7,Verde,TRUE
+Julia,20,IE,House,1.6,Azul,FALSE
+Carla,22,ADM,Friends,1.55,Rojo,TRUE
+Carlos,24,CS,Dark,1.9,Negro,TRUE
+Andrea,20,IE,Lost,1.7,Amarillo,FALSE
+Mateo,19,CS,The WD,1.8,Verde,TRUE
+Sofía,21,ADM,Breaking Bad,1.7,Azul,TRUE
+Pablo,20,IE,HIMYM,1.75,Verde,FALSE
+Valeria,23,CS,Friends,1.6,Rojo,TRUE
+Ricardo,22,ADM,GOT,1.9,Rosa,TRUE
+Camila,20,IE,Stranger Things,1.8,Azul,FALSE
+Leonardo,21,CS,Dark,1.65,Negro,TRUE
