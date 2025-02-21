@@ -16,7 +16,7 @@ El objetivo es generar un **dataset estructurado** con información clave de cad
 - **URL de la propiedad**
 
 ## Tecnologías Usadas
-- **Python** 🐍
+- **Python**
 - **BeautifulSoup** (Para la extracción de datos)
 - **Requests** (Para hacer las solicitudes HTTP)
 - **Pandas** (Para estructurar los datos en CSV)
