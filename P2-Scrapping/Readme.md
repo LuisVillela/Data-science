@@ -1,13 +1,3 @@
-### Instrucciones inciales:
-Ahora vamos a estructurar el código en tu WebScrapping.ipynb para extraer los datos de mapainmueble.com:
-
-Hacer la petición HTTP para obtener el HTML de la página.
-Parsear el HTML con BeautifulSoup.
-Extraer los datos clave (nombre, precio, habitaciones, baños, etc.).
-Convertir los datos en un DataFrame de Pandas.
-Guardar los datos en un CSV.
-
----
 
 # Web Scraping de Casas en Venta en Zona 10
 
@@ -26,7 +16,7 @@ El objetivo es generar un **dataset estructurado** con información clave de cad
 - **URL de la propiedad**
 
 ## Tecnologías Usadas
-- **Python** 🐍
+- **Python**
 - **BeautifulSoup** (Para la extracción de datos)
 - **Requests** (Para hacer las solicitudes HTTP)
 - **Pandas** (Para estructurar los datos en CSV)
